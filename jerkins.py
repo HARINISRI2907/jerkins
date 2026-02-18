@@ -149,4 +149,8 @@ pipeline {
     }  
 }
 
-##update.....
+##git checkout -b feature/add
+##git add app.py
+##git commit -m "version 2"
+##git merge feature/add
+##git push origin main
