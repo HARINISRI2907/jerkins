@@ -154,3 +154,8 @@ pipeline {
 ##git commit -m "version 2"
 ##git merge feature/add
 ##git push origin main
+##git config --global user.name "Your Name"
+##git config --global user.email "you@email.com"
+##git branch
+##git branch new-branch
+##git branch -d feature/add-greeting
