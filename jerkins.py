@@ -146,5 +146,7 @@ pipeline {
                 bat 'type demo.txt'
             }
         }
-    }
+    }  
 }
+
+##update.....
